@@ -28,16 +28,16 @@ Let’s first take a look at why we chose the CatBoost Model for this dataset.
 Given the characteristics of the PUBG game data and the strengths of the CatBoost algorithm, it is good to consider using CatBoost for this type of problem.
 After using CatBoost model for our dataset we can predict the performance using RMSE
 
-# Libraries Used In This Project
-* working
+# Libraries Used In This Project:
+* working :
 numpy 
 pandas <br>
-* visualisation
+* visualisation :
 matplotlib
 seaborn
 StandardScaler <br>
-* model
+* model :
 catboost  <br>
-* Metrics
+* Metrics :
 mean_squared_error
 r2_score
