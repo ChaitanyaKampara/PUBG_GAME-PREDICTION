@@ -31,12 +31,12 @@ After using CatBoost model for our dataset we can predict the performance using 
 # Libraries Used In This Project
 numpy 
 pandas
-# visualisation
+* visualisation
 matplotlib
 seaborn
 StandardScaler
-# model
+* model
 catboost
-# Metrics
+* Metrics
 mean_squared_error
 r2_score
