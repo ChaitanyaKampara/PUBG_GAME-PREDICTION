@@ -29,14 +29,15 @@ Given the characteristics of the PUBG game data and the strengths of the CatBoos
 After using CatBoost model for our dataset we can predict the performance using RMSE
 
 # Libraries Used In This Project
+* working
 numpy 
-pandas
+pandas <br>
 * visualisation
 matplotlib
 seaborn
-StandardScaler
+StandardScaler <br>
 * model
-catboost
+catboost  <br>
 * Metrics
 mean_squared_error
 r2_score
