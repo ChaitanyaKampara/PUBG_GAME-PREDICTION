@@ -6,7 +6,7 @@ Data wrangling is the process of cleaning, organizing, and preparing data for an
 Some of the data wrangling tasks that might be performed include:
 * Removing any unnecessary or irrelevant columns from the dataset
 * Handling missing values in the data (e.g. imputing missing values, dropping rows with missing values)
-* Converting categorical data, such as the type of equipment a player used, into numerical form (e.g. using one-hot encoding)
+* Converting categorical data, such as the type of equipment a player used, into numerical form (e.g. using one-hot encoding) 
 * Splitting the data into training and testing sets
 # Feature Engineering
 Feature engineering is the process of creating new features or modifying existing features in a dataset in order to improve the performance of a machine learning model. In the context of the PUBG win prediction model, feature engineering might involve creating new features based on existing data or transforming existing features in a way that makes them more useful for the model.
