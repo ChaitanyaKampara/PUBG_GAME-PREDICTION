@@ -3,7 +3,7 @@
 In this Project to predict the outcome of a game we need to train our model on a large dataset containing all various parameters of a game or information of a player like the guns he used, average headshot rate, his group rank etc. The datasets we are going to use 29 features. These 29 features along with the output of the game will be provided to train the model. 
 # Data Wrangling
 Data wrangling is the process of cleaning, organizing, and preparing data for analysis. In the context of the PUBG win prediction model, data wrangling would involve several steps to ensure that the data is in a usable form for the machine learning model.
-Some of the data wrangling tasks that might be performed include:  
+Some of the data wrangling tasks that might be performed include:   
 * Removing any unnecessary or irrelevant columns from the dataset
 * Handling missing values in the data (e.g. imputing missing values, dropping rows with missing values)
 * Converting categorical data, such as the type of equipment a player used, into numerical form (e.g. using one-hot encoding) 
